@@ -19,6 +19,7 @@
   "dependencies": {
     "chalk": "^4.1.0",
     "date-fns": "^2.16.1",
-    "dayjs": "^1.9.6"
+    "dayjs": "^1.9.6",
+    "pluralize": "^8.0.0"
   }
 }
