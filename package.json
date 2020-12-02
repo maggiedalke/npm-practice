@@ -1,0 +1,19 @@
+{
+  "name": "npm-practice",
+  "version": "1.0.0",
+  "description": "my npm first demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maggiedalke/npm-practice.git"
+  },
+  "author": "Maggie Dalke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maggiedalke/npm-practice/issues"
+  },
+  "homepage": "https://github.com/maggiedalke/npm-practice#readme"
+}
